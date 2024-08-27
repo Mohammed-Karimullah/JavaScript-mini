@@ -7,8 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (monthNameEl && dayNameEl && dayNumEl && yearEl) {
       const date = new Date();
       
-      monthNameEl.innerText = date.toLocaleString("en", { month: "long" });
-      dayNameEl.innerText = date.toLocaleString("en", { weekday: "long" });
+      monthNameEl.innerText = date.toLocaleString("de", { month: "long" });
+      dayNameEl.innerText = date.toLocaleString("de", { weekday: "long" });
       dayNumEl.innerText = date.getDate();
       yearEl.innerText = date.getFullYear();
     } else {
