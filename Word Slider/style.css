@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+h2{
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    animation: textLight 0.5s linear infinite;
+    margin-top: -1%;
+}
+
+@keyframes textLight {
+    100%{
+        color: white;
+        text-shadow: 0 0 10px white;
+    }
+}
