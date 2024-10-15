@@ -1,8 +1,8 @@
-# 30 Mini JavaScript Projects
+# Mini JavaScript Projects
 
 ### Overview
-This repository contains 30 mini JavaScript projects that I am building to strengthen my JavaScript skills and gain practical experience in front-end development. 
-These projects are developed by following tutorials and guidance from the JavaScript King YouTube channel.
+This repository contains mini JavaScript projects that I am building to strengthen my JavaScript skills and gain practical experience in front-end development. 
+These projects are developed by following tutorials and guidance from YouTube channels like 'JavaScript King' & 'How to Become a Developer'.
 
 ### Objective
 The goal of this project series is to:
@@ -35,4 +35,4 @@ To run the projects, simply open the HTML files in your web browser.
 Feel free to explore, modify, and expand the projects as you like.
 
 ### Acknowledgments
-Special thanks to JavaScript King for providing comprehensive tutorials and valuable insights into JavaScript development!
+Special thanks to 'JavaScript King' & 'How to Become a Developer' for providing comprehensive tutorials and valuable insights into JavaScript development!
